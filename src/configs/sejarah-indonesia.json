@@ -1,0 +1,932 @@
+{
+  "topic": "Sejarah Indonesia",
+  "description": "Kuis ini menguji pengetahuan tentang sejarah Indonesia, mulai dari kerajaan-kerajaan kuno, masa penjajahan, pergerakan nasional, hingga proklamasi kemerdekaan dan masa Orde Lama serta Orde Baru.",
+  "chapters": [
+    {
+      "chapter": "Experiment",
+      "narration": "Ini hanyalah eksperimen",
+      "questions": [
+        {
+          "question": "Pilih A",
+          "options": ["A", "B", "C", "D"],
+          "answer": "A"
+        },
+        {
+          "question": "Pilih B",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B"
+        },
+        {
+          "question": "Pilih C",
+          "options": ["A", "B", "C", "D"],
+          "answer": "C"
+        },
+        {
+          "question": "Pilih D",
+          "options": ["A", "B", "C", "D"],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "chapter": "Kerajaan Majapahit",
+      "narration": "Kerajaan Majapahit adalah kerajaan Hindu-Buddha terbesar di Nusantara yang berdiri pada abad ke-13. Di masa pemerintahan Hayam Wuruk dan patih Gajah Mada, wilayah Majapahit meluas hingga Asia Tenggara dan menjadi salah satu imperium terbesar di Asia Tenggara.",
+      "questions": [
+        {
+          "question": "Siapa nama patih terkenal dari Kerajaan Majapahit yang mengikrarkan Sumpah Palapa?",
+          "options": [
+            "Gajah Mada",
+            "Arya Penangsang",
+            "Hayam Wuruk",
+            "Raden Wijaya"
+          ],
+          "answer": "Gajah Mada"
+        },
+        {
+          "question": "Siapa pendiri Kerajaan Majapahit?",
+          "options": [
+            "Hayam Wuruk",
+            "Raden Wijaya",
+            "Jayanegara",
+            "Tribhuwana Tunggadewi"
+          ],
+          "answer": "Raden Wijaya"
+        },
+        {
+          "question": "Sumpah yang diucapkan Gajah Mada untuk menyatukan Nusantara dikenal dengan nama?",
+          "options": [
+            "Sumpah Palapa",
+            "Sumpah Pemuda",
+            "Sumpah Setia",
+            "Sumpah Amukti Palapa"
+          ],
+          "answer": "Sumpah Palapa"
+        },
+        {
+          "question": "Kitab yang menceritakan tentang kejayaan Majapahit dan ditulis oleh Mpu Prapanca adalah?",
+          "options": [
+            "Negarakertagama",
+            "Arjunawiwaha",
+            "Sutasoma",
+            "Pararaton"
+          ],
+          "answer": "Negarakertagama"
+        },
+        {
+          "question": "Raja keempat Kerajaan Majapahit yang membawa Majapahit ke puncak kejayaan adalah?",
+          "options": [
+            "Raden Wijaya",
+            "Jayanegara",
+            "Hayam Wuruk",
+            "Tribhuwana Tunggadewi"
+          ],
+          "answer": "Hayam Wuruk"
+        },
+        {
+          "question": "Di mana letak pusat Kerajaan Majapahit pada masa kejayaannya?",
+          "options": ["Trowulan", "Prambanan", "Borobudur", "Singasari"],
+          "answer": "Trowulan"
+        },
+        {
+          "question": "Selain Gajah Mada, siapa nama raja wanita yang memerintah Majapahit sebelum Hayam Wuruk?",
+          "options": [
+            "Dyah Pitaloka",
+            "Dara Jingga",
+            "Tribhuwana Tunggadewi",
+            "Ratu Kidul"
+          ],
+          "answer": "Tribhuwana Tunggadewi"
+        },
+        {
+          "question": "Apa nama arca perwujudan Gajah Mada yang ditemukan di Mojokerto?",
+          "options": [
+            "Arca Joko Dolog",
+            "Arca Bhairawa",
+            "Arca Dwarapala",
+            "Arca Prajnaparamita"
+          ],
+          "answer": "Arca Joko Dolog"
+        },
+        {
+          "question": "Kerajaan apa yang merupakan cikal bakal berdirinya Majapahit?",
+          "options": [
+            "Kerajaan Singasari",
+            "Kerajaan Kediri",
+            "Kerajaan Mataram Kuno",
+            "Kerajaan Sriwijaya"
+          ],
+          "answer": "Kerajaan Singasari"
+        },
+        {
+          "question": "Seni bangunan candi di Majapahit banyak dipengaruhi oleh corak seni dari agama?",
+          "options": ["Islam", "Kristen", "Hindu-Buddha", "Konghucu"],
+          "answer": "Hindu-Buddha"
+        },
+        {
+          "question": "Salah satu pelabuhan penting yang dikuasai Majapahit dan menjadi pusat perdagangan internasional adalah?",
+          "options": ["Sunda Kelapa", "Gresik", "Tuban", "Ujung Galuh"],
+          "answer": "Ujung Galuh"
+        },
+        {
+          "question": "Setelah wafatnya Gajah Mada dan Hayam Wuruk, Majapahit mengalami kemunduran karena?",
+          "options": [
+            "Serangan dari luar",
+            "Perebutan kekuasaan internal",
+            "Bencana alam",
+            "Penurunan ekonomi"
+          ],
+          "answer": "Perebutan kekuasaan internal"
+        },
+        {
+          "question": "Nama gunung suci yang diyakini sebagai tempat pemujaan leluhur di Majapahit adalah?",
+          "options": [
+            "Gunung Semeru",
+            "Gunung Lawu",
+            "Gunung Welirang",
+            "Gunung Penanggungan"
+          ],
+          "answer": "Gunung Penanggungan"
+        },
+        {
+          "question": "Apa gelar yang diberikan kepada Raden Wijaya setelah mendirikan Majapahit?",
+          "options": [
+            "Sri Rajasanagara",
+            "Kertarajasa Jayawardhana",
+            "Brawijaya I",
+            "Hayame Wuruk"
+          ],
+          "answer": "Kertarajasa Jayawardhana"
+        },
+        {
+          "question": "Salah satu bentuk pemerintahan khas Majapahit yang mengintegrasikan berbagai daerah melalui ikatan kekerabatan dan upeti adalah sistem?",
+          "options": ["Vassal", "Feodal", "Mancanegara", "Kerajaan Bawahan"],
+          "answer": "Mancanegara"
+        },
+        {
+          "question": "Kitab Sutasoma yang mengandung frasa 'Bhinneka Tunggal Ika' ditulis oleh siapa pada masa Majapahit?",
+          "options": [
+            "Mpu Prapanca",
+            "Mpu Tantular",
+            "Mpu Sendok",
+            "Mpu Panuluh"
+          ],
+          "answer": "Mpu Tantular"
+        },
+        {
+          "question": "Apa nama prasasti yang mencatat angka tahun pendirian Majapahit?",
+          "options": [
+            "Prasasti Kudadu",
+            "Prasasti Sukamerta",
+            "Prasasti Canggal",
+            "Prasasti Anjuk Ladang"
+          ],
+          "answer": "Prasasti Kudadu"
+        },
+        {
+          "question": "Sistem irigasi yang maju pada masa Majapahit dikenal dengan sebutan?",
+          "options": ["Subak", "Waduk", "Dam", "Terowongan Air"],
+          "answer": "Subak"
+        },
+        {
+          "question": "Pengaruh kebudayaan apa yang paling dominan di Majapahit?",
+          "options": ["India", "Cina", "Arab", "Eropa"],
+          "answer": "India"
+        },
+        {
+          "question": "Masa kejayaan Majapahit sering disebut sebagai 'golden age' (masa keemasan) karena?",
+          "options": [
+            "Ekonomi yang maju",
+            "Wilayah kekuasaan yang luas",
+            "Perkembangan seni dan budaya",
+            "Semua jawaban benar"
+          ],
+          "answer": "Semua jawaban benar"
+        }
+      ]
+    },
+    {
+      "chapter": "Masa Penjajahan Belanda",
+      "narration": "Pada abad ke-17, Vereenigde Oostindische Compagnie (VOC) atau Perusahaan Hindia Timur Belanda mulai mendominasi perdagangan di Nusantara. Penjajahan Belanda berlangsung selama ratusan tahun dan meninggalkan banyak jejak sejarah, mengubah tatanan sosial, ekonomi, dan politik.",
+      "questions": [
+        {
+          "question": "Organisasi dagang yang didirikan Belanda untuk memonopoli perdagangan di Nusantara adalah?",
+          "options": ["EIC", "VOC", "SIC", "DNC"],
+          "answer": "VOC"
+        },
+        {
+          "question": "Tokoh yang memimpin perlawanan di Tondano melawan Belanda adalah?",
+          "options": [
+            "Pangeran Diponegoro",
+            "Tuanku Imam Bonjol",
+            "Sultan Hasanuddin",
+            "Kapiten Pattimura"
+          ],
+          "answer": "Kapiten Pattimura"
+        },
+        {
+          "question": "Kebijakan tanam paksa (Cultuurstelsel) yang diterapkan Belanda bertujuan untuk?",
+          "options": [
+            "Meningkatkan kesejahteraan rakyat",
+            "Mengembangkan pendidikan",
+            "Meningkatkan hasil pertanian untuk ekspor",
+            "Memperluas wilayah jajahan"
+          ],
+          "answer": "Meningkatkan hasil pertanian untuk ekspor"
+        },
+        {
+          "question": "Perjanjian yang mengakhiri Perang Diponegoro adalah?",
+          "options": [
+            "Perjanjian Giyanti",
+            "Perjanjian Linggarjati",
+            "Perjanjian Tuntang",
+            "Perjanjian Salatiga"
+          ],
+          "answer": "Perjanjian Giyanti"
+        },
+        {
+          "question": "Gubernur Jenderal VOC yang terkenal dengan kebijakan 'Devide et Impera' (pecah belah dan kuasai) adalah?",
+          "options": [
+            "Herman Willem Daendels",
+            "Jan Pieterszoon Coen",
+            "Thomas Stamford Raffles",
+            "Johannes van den Bosch"
+          ],
+          "answer": "Jan Pieterszoon Coen"
+        },
+        {
+          "question": "Perlawanan Teuku Umar dan Cut Nyak Dien terhadap Belanda terjadi di daerah?",
+          "options": [
+            "Sumatera Barat",
+            "Aceh",
+            "Jawa Barat",
+            "Sulawesi Selatan"
+          ],
+          "answer": "Aceh"
+        },
+        {
+          "question": "Apa nama ibu kota Hindia Belanda yang didirikan oleh VOC?",
+          "options": ["Batavia", "Surabaya", "Makassar", "Medan"],
+          "answer": "Batavia"
+        },
+        {
+          "question": "Pada masa pemerintahan Herman Willem Daendels, infrastruktur penting apa yang dibangun di Pulau Jawa?",
+          "options": [
+            "Jalan Tol Trans Jawa",
+            "Jalan Raya Pos",
+            "Jalur Kereta Api",
+            "Pelabuhan Tanjung Priok"
+          ],
+          "answer": "Jalan Raya Pos"
+        },
+        {
+          "question": "Perjanjian yang membagi wilayah kekuasaan Mataram Islam menjadi Kesultanan Yogyakarta dan Kasunanan Surakarta adalah?",
+          "options": [
+            "Perjanjian Giyanti",
+            "Perjanjian Tuntang",
+            "Perjanjian Salatiga",
+            "Perjanjian London"
+          ],
+          "answer": "Perjanjian Giyanti"
+        },
+        {
+          "question": "Sistem pemerintahan yang menerapkan penguasaan wilayah secara langsung oleh pemerintah kolonial Belanda setelah VOC bubar disebut?",
+          "options": [
+            "Sistem Kerajaan",
+            "Sistem Residen",
+            "Sistem Pax Nederlandica",
+            "Sistem Monopoli"
+          ],
+          "answer": "Sistem Residen"
+        },
+        {
+          "question": "Salah satu tokoh ulama yang memimpin Perang Padri di Sumatera Barat adalah?",
+          "options": [
+            "Pangeran Diponegoro",
+            "Tuanku Imam Bonjol",
+            "Sultan Agung",
+            "Sultan Ageng Tirtayasa"
+          ],
+          "answer": "Tuanku Imam Bonjol"
+        },
+        {
+          "question": "Apa alasan utama Belanda tertarik dengan Nusantara?",
+          "options": [
+            "Sumber daya manusia",
+            "Tanah yang subur",
+            "Rempah-rempah",
+            "Emas dan perak"
+          ],
+          "answer": "Rempah-rempah"
+        },
+        {
+          "question": "Tahun berapa VOC resmi dibubarkan?",
+          "options": ["1799", "1800", "1811", "1816"],
+          "answer": "1799"
+        },
+        {
+          "question": "Tokoh yang memimpin perlawanan di Bali yang dikenal dengan Perang Puputan adalah?",
+          "options": [
+            "I Gusti Ketut Jelantik",
+            "Patih Jelantik",
+            "Untung Suropati",
+            "Sultan Agung"
+          ],
+          "answer": "I Gusti Ketut Jelantik"
+        },
+        {
+          "question": "Buku yang mengkritik keras kebijakan tanam paksa dan ditulis oleh Multatuli (Eduard Douwes Dekker) berjudul?",
+          "options": [
+            "Max Havelaar",
+            "Habis Gelap Terbitlah Terang",
+            "Indonesia Menggugat",
+            "Di Bawah Bendera Revolusi"
+          ],
+          "answer": "Max Havelaar"
+        },
+        {
+          "question": "Apa nama benteng yang dibangun Belanda di Batavia sebagai pusat pemerintahan dan pertahanan?",
+          "options": [
+            "Benteng Marlborough",
+            "Benteng Vredeburg",
+            "Benteng Rotterdam",
+            "Benteng Batavia (Castle Batavia)"
+          ],
+          "answer": "Benteng Batavia (Castle Batavia)"
+        },
+        {
+          "question": "Salah satu dampak negatif dari sistem tanam paksa bagi rakyat Indonesia adalah?",
+          "options": [
+            "Peningkatan kesejahteraan",
+            "Kelaparan dan kemiskinan",
+            "Peningkatan pendidikan",
+            "Pembangunan infrastruktur yang merata"
+          ],
+          "answer": "Kelaparan dan kemiskinan"
+        },
+        {
+          "question": "Perang Jawa atau Perang Diponegoro terjadi pada tahun?",
+          "options": ["1820-1825", "1825-1830", "1830-1835", "1835-1840"],
+          "answer": "1825-1830"
+        },
+        {
+          "question": "Siapa nama pahlawan wanita dari Aceh yang melanjutkan perjuangan suaminya melawan Belanda?",
+          "options": [
+            "Fatmawati",
+            "R.A. Kartini",
+            "Cut Nyak Dien",
+            "Dewi Sartika"
+          ],
+          "answer": "Cut Nyak Dien"
+        },
+        {
+          "question": "Apa nama sistem sewa tanah yang diterapkan oleh Thomas Stamford Raffles di Jawa?",
+          "options": [
+            "Landrente Stelsel",
+            "Cultuurstelsel",
+            "Contractstelsel",
+            "Preangerstelsel"
+          ],
+          "answer": "Landrente Stelsel"
+        }
+      ]
+    },
+    {
+      "chapter": "Masa Pergerakan Nasional",
+      "narration": "Pada awal abad ke-20, kesadaran nasional mulai tumbuh di kalangan pribumi. Berbagai organisasi pergerakan nasional didirikan untuk memperjuangkan kemerdekaan Indonesia dari penjajahan, menandai periode kebangkitan bangsa.",
+      "questions": [
+        {
+          "question": "Organisasi pergerakan nasional pertama di Indonesia yang didirikan pada tahun 1908 adalah?",
+          "options": [
+            "Sarekat Islam",
+            "Indische Partij",
+            "Budi Utomo",
+            "Perhimpunan Indonesia"
+          ],
+          "answer": "Budi Utomo"
+        },
+        {
+          "question": "Tokoh yang dikenal sebagai 'Bapak Pendidikan Nasional' dan pendiri Taman Siswa adalah?",
+          "options": [
+            "Ki Hajar Dewantara",
+            "Cipto Mangunkusumo",
+            "Douwes Dekker",
+            "Soetomo"
+          ],
+          "answer": "Ki Hajar Dewantara"
+        },
+        {
+          "question": "Sumpah Pemuda diikrarkan pada tanggal?",
+          "options": [
+            "28 Oktober 1928",
+            "17 Agustus 1945",
+            "20 Mei 1908",
+            "1 Juni 1945"
+          ],
+          "answer": "28 Oktober 1928"
+        },
+        {
+          "question": "Tokoh yang merumuskan konsep Pancasila sebagai dasar negara Indonesia adalah?",
+          "options": [
+            "Mohammad Hatta",
+            "Soekarno",
+            "Soepomo",
+            "Muhammad Yamin"
+          ],
+          "answer": "Soekarno"
+        },
+        {
+          "question": "Organisasi Islam yang didirikan oleh KH. Ahmad Dahlan pada tahun 1912 adalah?",
+          "options": [
+            "Nahdlatul Ulama",
+            "Muhammadiyah",
+            "Sarekat Islam",
+            "Persatuan Islam"
+          ],
+          "answer": "Muhammadiyah"
+        },
+        {
+          "question": "Tiga serangkai tokoh Indische Partij adalah Douwes Dekker, Cipto Mangunkusumo, dan?",
+          "options": [
+            "Ki Hajar Dewantara",
+            "Soetomo",
+            "Mohammad Hatta",
+            "Soekarno"
+          ],
+          "answer": "Ki Hajar Dewantara"
+        },
+        {
+          "question": "Organisasi kebangsaan yang berjuang di Belanda dan kemudian berganti nama menjadi Perhimpunan Indonesia adalah?",
+          "options": ["Indische Vereeniging", "Jong Java", "PII", "PNI"],
+          "answer": "Indische Vereeniging"
+        },
+        {
+          "question": "Surat kabar yang sering digunakan sebagai media propaganda pergerakan nasional adalah?",
+          "options": [
+            "De Locomotief",
+            "Pewarta Deli",
+            "Medan Prijaji",
+            "Soeara Oemoem"
+          ],
+          "answer": "Medan Prijaji"
+        },
+        {
+          "question": "Apa nama organisasi pemuda pertama yang berdiri pada tahun 1915?",
+          "options": [
+            "Jong Java",
+            "Jong Sumatranen Bond",
+            "Jong Celebes",
+            "Jong Ambon"
+          ],
+          "answer": "Jong Java"
+        },
+        {
+          "question": "Kongres Pemuda II yang menghasilkan Sumpah Pemuda diselenggarakan di kota?",
+          "options": ["Bandung", "Yogyakarta", "Jakarta", "Semarang"],
+          "answer": "Jakarta"
+        },
+        {
+          "question": "Pencetus ide untuk membentuk organisasi Budi Utomo adalah?",
+          "options": [
+            "Dr. Wahidin Sudirohusodo",
+            "Dr. Soetomo",
+            "Tjipto Mangoenkoesoemo",
+            "Douwes Dekker"
+          ],
+          "answer": "Dr. Wahidin Sudirohusodo"
+        },
+        {
+          "question": "Sarekat Islam pada awalnya adalah organisasi dagang bernama?",
+          "options": [
+            "Sarekat Dagang Islam",
+            "Jong Islamieten Bond",
+            "Muhammadiyah",
+            "Nahdlatul Ulama"
+          ],
+          "answer": "Sarekat Dagang Islam"
+        },
+        {
+          "question": "Tujuan utama Indische Partij adalah?",
+          "options": [
+            "Meningkatkan pendidikan",
+            "Mencapai Indonesia merdeka",
+            "Meningkatkan kesejahteraan petani",
+            "Mengembangkan budaya Jawa"
+          ],
+          "answer": "Mencapai Indonesia merdeka"
+        },
+        {
+          "question": "Apa nama majalah yang diterbitkan oleh Perhimpunan Indonesia di Belanda?",
+          "options": [
+            "Indonesia Merdeka",
+            "Hindoe",
+            "Boedi Oetomo",
+            "Sarekat Ra'jat"
+          ],
+          "answer": "Indonesia Merdeka"
+        },
+        {
+          "question": "Tokoh perempuan yang memperjuangkan emansipasi wanita dan menulis buku 'Habis Gelap Terbitlah Terang' adalah?",
+          "options": [
+            "Cut Nyak Dien",
+            "Dewi Sartika",
+            "R.A. Kartini",
+            "Martha Christina Tiahahu"
+          ],
+          "answer": "R.A. Kartini"
+        },
+        {
+          "question": "Organisasi yang didirikan oleh H.O.S. Tjokroaminoto dan berkembang pesat di awal abad ke-20 adalah?",
+          "options": ["Budi Utomo", "PNI", "Sarekat Islam", "Muhammadiyah"],
+          "answer": "Sarekat Islam"
+        },
+        {
+          "question": "Partai Nasional Indonesia (PNI) yang didirikan oleh Soekarno pada tahun 1927 berasaskan?",
+          "options": ["Kooperasi", "Non-kooperasi", "Netral", "Komunis"],
+          "answer": "Non-kooperasi"
+        },
+        {
+          "question": "Gagasan tentang nasionalisme Indonesia yang pertama kali diungkapkan oleh Douwes Dekker adalah?",
+          "options": [
+            "Indisch Nasionalisme",
+            "Pancasila",
+            "Kebangkitan Nasional",
+            "Nasionalisme Asia"
+          ],
+          "answer": "Indisch Nasionalisme"
+        },
+        {
+          "question": "Apa sebutan bagi kelompok pelajar Indonesia yang menuntut ilmu di Belanda pada masa pergerakan nasional?",
+          "options": [
+            "Jong Indonesia",
+            "Studentenbond",
+            "Pelajar Perhimpunan",
+            "Indonesische Studenten"
+          ],
+          "answer": "Pelajar Perhimpunan"
+        },
+        {
+          "question": "Tokoh yang dikenal sebagai 'Bapak Koperasi Indonesia' dan juga proklamator adalah?",
+          "options": [
+            "Soekarno",
+            "Mohammad Hatta",
+            "Sutan Sjahrir",
+            "Tan Malaka"
+          ],
+          "answer": "Mohammad Hatta"
+        }
+      ]
+    },
+    {
+      "chapter": "Proklamasi Kemerdekaan",
+      "narration": "Setelah Jepang menyerah kepada Sekutu, kesempatan emas untuk memproklamasikan kemerdekaan Indonesia tiba. Peristiwa ini menjadi tonggak sejarah penting bagi bangsa Indonesia, ditandai dengan berbagai kejadian krusial.",
+      "questions": [
+        {
+          "question": "Tanggal berapa proklamasi kemerdekaan Indonesia dibacakan?",
+          "options": [
+            "17 Agustus 1945",
+            "18 Agustus 1945",
+            "16 Agustus 1945",
+            "19 Agustus 1945"
+          ],
+          "answer": "17 Agustus 1945"
+        },
+        {
+          "question": "Siapa yang membacakan teks proklamasi kemerdekaan Indonesia?",
+          "options": [
+            "Mohammad Hatta",
+            "Soekarno",
+            "Sutan Sjahrir",
+            "Chaerul Saleh"
+          ],
+          "answer": "Soekarno"
+        },
+        {
+          "question": "Teks proklamasi kemerdekaan Indonesia diketik di rumah siapa?",
+          "options": [
+            "Laksamana Maeda",
+            "Soekarno",
+            "Mohammad Hatta",
+            "Sayuti Melik"
+          ],
+          "answer": "Laksamana Maeda"
+        },
+        {
+          "question": "Siapa yang menjahit Bendera Merah Putih pertama kali?",
+          "options": ["Fatmawati", "Kartini", "Dewi Sartika", "Cut Nyak Dien"],
+          "answer": "Fatmawati"
+        },
+        {
+          "question": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan tua dan golongan muda mengenai?",
+          "options": [
+            "Isi proklamasi",
+            "Waktu proklamasi",
+            "Tempat proklamasi",
+            "Siapa yang membacakan proklamasi"
+          ],
+          "answer": "Waktu proklamasi"
+        },
+        {
+          "question": "Tokoh dari golongan muda yang mendesak Soekarno-Hatta untuk segera memproklamasikan kemerdekaan adalah?",
+          "options": [
+            "Wikana",
+            "Sukarni",
+            "Chaeroel Saleh",
+            "Semua jawaban benar"
+          ],
+          "answer": "Semua jawaban benar"
+        },
+        {
+          "question": "Apa isi dari Perjanjian Postdam yang menjadi salah satu pemicu menyerahnya Jepang?",
+          "options": [
+            "Jepang harus menyerah tanpa syarat",
+            "Jepang harus menyerahkan semua koloninya",
+            "Jepang harus membayar ganti rugi perang",
+            "Jepang harus menghentikan ekspansi militernya"
+          ],
+          "answer": "Jepang harus menyerah tanpa syarat"
+        },
+        {
+          "question": "Siapa yang mengusulkan agar naskah proklamasi ditandatangani oleh Soekarno dan Mohammad Hatta atas nama bangsa Indonesia?",
+          "options": ["Chairul Saleh", "Sukarni", "Wikana", "Sayuti Melik"],
+          "answer": "Sukarni"
+        },
+        {
+          "question": "Dimana teks proklamasi kemerdekaan Indonesia pertama kali dibacakan?",
+          "options": [
+            "Lapangan Ikada",
+            "Pegansaan Timur 56",
+            "Istana Merdeka",
+            "Gedung Proklamasi"
+          ],
+          "answer": "Pegansaan Timur 56"
+        },
+        {
+          "question": "Siapa yang mengetik naskah proklamasi yang telah disepakati?",
+          "options": [
+            "Mohammad Hatta",
+            "Soekarno",
+            "Sayuti Melik",
+            "Sutan Sjahrir"
+          ],
+          "answer": "Sayuti Melik"
+        },
+        {
+          "question": "Kapan Jepang menyerah kepada Sekutu, yang menjadi momentum bagi Indonesia untuk memproklamasikan kemerdekaan?",
+          "options": [
+            "14 Agustus 1945",
+            "15 Agustus 1945",
+            "16 Agustus 1945",
+            "17 Agustus 1945"
+          ],
+          "answer": "15 Agustus 1945"
+        },
+        {
+          "question": "Apa nama Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia yang dibentuk Jepang?",
+          "options": ["PPKI", "BPUPKI", "KNIP", "PNI"],
+          "answer": "BPUPKI"
+        },
+        {
+          "question": "Siapa saja tiga tokoh perumus naskah proklamasi kemerdekaan?",
+          "options": [
+            "Soekarno, Hatta, Sjahrir",
+            "Soekarno, Hatta, Soepomo",
+            "Soekarno, Hatta, Ahmad Soebardjo",
+            "Soekarno, Hatta, Tan Malaka"
+          ],
+          "answer": "Soekarno, Hatta, Ahmad Soebardjo"
+        },
+        {
+          "question": "Apa makna proklamasi kemerdekaan bagi bangsa Indonesia?",
+          "options": [
+            "Akhir penjajahan",
+            "Awal pembentukan negara",
+            "Puncak perjuangan bangsa",
+            "Semua jawaban benar"
+          ],
+          "answer": "Semua jawaban benar"
+        },
+        {
+          "question": "Setelah proklamasi, bendera Merah Putih pertama kali dikibarkan oleh?",
+          "options": [
+            "S.K. Trimurti",
+            "Latief Hendraningrat dan Suhud",
+            "Mohammad Hatta dan Soekarno",
+            "Sayuti Melik"
+          ],
+          "answer": "Latief Hendraningrat dan Suhud"
+        },
+        {
+          "question": "Pasca proklamasi, PPKI segera mengadakan sidang untuk mengesahkan?",
+          "options": [
+            "UUD 1945",
+            "Pancasila",
+            "Pembentukan KNIP",
+            "Semua jawaban benar"
+          ],
+          "answer": "Semua jawaban benar"
+        },
+        {
+          "question": "Jepang memberikan janji kemerdekaan kepada Indonesia melalui badan apa?",
+          "options": ["BPUPKI", "PPKI", "Chuo Sangi In", "Gerakan Tiga A"],
+          "answer": "BPUPKI"
+        },
+        {
+          "question": "Apa reaksi pertama Belanda setelah mendengar proklamasi kemerdekaan Indonesia?",
+          "options": [
+            "Mengakui kemerdekaan",
+            "Mengirimkan pasukan",
+            "Berunding dengan Indonesia",
+            "Membentuk pemerintahan sementara"
+          ],
+          "answer": "Mengirimkan pasukan"
+        },
+        {
+          "question": "Gedung di mana proklamasi dibacakan, dulunya adalah rumah milik?",
+          "options": [
+            "Soekarno",
+            "Mohammad Hatta",
+            "Laksamana Maeda",
+            "Ahmad Soebardjo"
+          ],
+          "answer": "Laksamana Maeda"
+        },
+        {
+          "question": "Siapa tokoh yang memimpin upacara penaikan bendera Merah Putih pada saat proklamasi?",
+          "options": ["Latief Hendraningrat", "Suhud", "Diah", "Fatmawati"],
+          "answer": "Latief Hendraningrat"
+        }
+      ]
+    },
+    {
+      "chapter": "Masa Orde Lama dan Orde Baru",
+      "narration": "Setelah proklamasi kemerdekaan, Indonesia menghadapi berbagai tantangan dalam membangun negara. Masa Orde Lama di bawah kepemimpinan Soekarno dan Orde Baru di bawah kepemimpinan Soeharto memiliki karakteristiknya masing-masing, membentuk sejarah politik Indonesia modern.",
+      "questions": [
+        {
+          "question": "Presiden pertama Republik Indonesia adalah?",
+          "options": ["Soeharto", "Soekarno", "Mohammad Hatta", "BJ Habibie"],
+          "answer": "Soekarno"
+        },
+        {
+          "question": "Gerakan 30 September (G30S/PKI) terjadi pada tahun?",
+          "options": ["1960", "1965", "1970", "1975"],
+          "answer": "1965"
+        },
+        {
+          "question": "Istilah 'Dwi Fungsi ABRI' banyak diterapkan pada masa pemerintahan?",
+          "options": [
+            "Orde Lama",
+            "Orde Baru",
+            "Reformasi",
+            "Demokrasi Terpimpin"
+          ],
+          "answer": "Orde Baru"
+        },
+        {
+          "question": "Tri Tuntutan Rakyat (TRITURA) yang salah satu isinya membubarkan PKI muncul pada masa?",
+          "options": [
+            "Awal Kemerdekaan",
+            "Orde Lama",
+            "Orde Baru",
+            "Reformasi"
+          ],
+          "answer": "Orde Lama"
+        },
+        {
+          "question": "Dekrit Presiden 5 Juli 1959 yang dikeluarkan Soekarno bertujuan untuk?",
+          "options": [
+            "Kembali ke UUD 1945",
+            "Pembubaran DPR",
+            "Pembentukan MPRS",
+            "Pembubaran Konstituante"
+          ],
+          "answer": "Kembali ke UUD 1945"
+        },
+        {
+          "question": "Siapa yang menggantikan Soekarno sebagai Presiden RI setelah masa Orde Lama berakhir?",
+          "options": [
+            "BJ Habibie",
+            "Soeharto",
+            "Megawati Soekarnoputri",
+            "Abdurrahman Wahid"
+          ],
+          "answer": "Soeharto"
+        },
+        {
+          "question": "Program 'Pembangunan Lima Tahun' (Pelita) adalah ciri khas pembangunan pada masa?",
+          "options": [
+            "Orde Lama",
+            "Orde Baru",
+            "Reformasi",
+            "Demokrasi Terpimpin"
+          ],
+          "answer": "Orde Baru"
+        },
+        {
+          "question": "Peristiwa 'Konfrontasi Indonesia-Malaysia' terjadi pada masa pemerintahan?",
+          "options": [
+            "Soekarno",
+            "Soeharto",
+            "BJ Habibie",
+            "Megawati Soekarnoputri"
+          ],
+          "answer": "Soekarno"
+        },
+        {
+          "question": "Apa nama Dokumen penting yang mengakhiri masa Orde Lama dan menjadi dasar Orde Baru?",
+          "options": [
+            "Tap MPRS No. XXV/1966",
+            "Supersemar",
+            "Dekrit Presiden",
+            "Pidato Nawaksara"
+          ],
+          "answer": "Supersemar"
+        },
+        {
+          "question": "Kebijakan 'Transmigrasi' yang gencar dilakukan pada masa Orde Baru bertujuan untuk?",
+          "options": [
+            "Pemerataan penduduk",
+            "Mengurangi kemiskinan",
+            "Meningkatkan produksi pangan",
+            "Memperluas lapangan kerja"
+          ],
+          "answer": "Pemerataan penduduk"
+        },
+        {
+          "question": "Pada masa Orde Lama, sistem politik yang diterapkan setelah Dekrit Presiden 1959 adalah?",
+          "options": [
+            "Demokrasi Liberal",
+            "Demokrasi Terpimpin",
+            "Demokrasi Pancasila",
+            "Otokrasi"
+          ],
+          "answer": "Demokrasi Terpimpin"
+        },
+        {
+          "question": "Organisasi yang didirikan oleh Soekarno untuk mewadahi aspirasi rakyat pada masa Orde Lama adalah?",
+          "options": ["Golkar", "PNI", "Front Nasional", "PKI"],
+          "answer": "Front Nasional"
+        },
+        {
+          "question": "Apa penyebab utama berakhirnya masa Orde Baru?",
+          "options": [
+            "Konflik internal militer",
+            "Tekanan internasional",
+            "Krisis ekonomi 1997-1998 dan tuntutan reformasi",
+            "Kematian Presiden Soeharto"
+          ],
+          "answer": "Krisis ekonomi 1997-1998 dan tuntutan reformasi"
+        },
+        {
+          "question": "Pada masa Orde Baru, partai politik yang dominan dan selalu memenangkan pemilu adalah?",
+          "options": ["PDI", "PPP", "Golkar", "PKB"],
+          "answer": "Golkar"
+        },
+        {
+          "question": "Siapa Wakil Presiden pertama di masa Orde Baru?",
+          "options": [
+            "Adam Malik",
+            "Umar Wirahadikusumah",
+            "Sudharmono",
+            "BJ Habibie"
+          ],
+          "answer": "Adam Malik"
+        },
+        {
+          "question": "Pada masa Orde Lama, Soekarno mengeluarkan pidato penting yang dikenal dengan nama?",
+          "options": ["Nawaksara", "Trisakti", "Dwi Fungsi", "Manipol Usdek"],
+          "answer": "Manipol Usdek"
+        },
+        {
+          "question": "Apa nama operasi militer yang dilakukan Indonesia untuk merebut kembali Irian Barat dari Belanda?",
+          "options": [
+            "Operasi Trikora",
+            "Operasi Seroja",
+            "Operasi Woyla",
+            "Operasi Ganesha"
+          ],
+          "answer": "Operasi Trikora"
+        },
+        {
+          "question": "Program Keluarga Berencana (KB) gencar diterapkan pada masa?",
+          "options": [
+            "Orde Lama",
+            "Orde Baru",
+            "Reformasi",
+            "Awal Kemerdekaan"
+          ],
+          "answer": "Orde Baru"
+        },
+        {
+          "question": "Salah satu ciri ekonomi pada masa Orde Baru adalah fokus pada?",
+          "options": ["Industrialisasi", "Pertanian", "Jasa", "Perdagangan"],
+          "answer": "Industrialisasi"
+        },
+        {
+          "question": "Siapa Presiden Indonesia yang memerintah paling lama?",
+          "options": ["Soekarno", "Soeharto", "SBY", "Megawati Soekarnoputri"],
+          "answer": "Soeharto"
+        }
+      ]
+    }
+  ]
+}
